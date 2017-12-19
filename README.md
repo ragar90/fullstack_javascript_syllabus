@@ -40,7 +40,9 @@ This repo is intended to list some resources to learn about javascript developme
 
 ## Frontend
 ### React/Redux
-- [Full Course](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
+- [React For Beginners](https://egghead.io/courses/the-beginner-s-guide-to-reactjs)
+- [Learn Redux](https://learnredux.com/)
+- [Full Course React/Redux](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
 
 ### ANGULAR JS
 - Understand  how Single page aplications works 
