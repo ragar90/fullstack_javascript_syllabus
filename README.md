@@ -38,8 +38,11 @@ This repo is intended to list some resources to learn about javascript developme
 3. [Factory Girl](https://github.com/aexmachina/factory-girl/blob/master/docs/tutorial.md): Factories for test data
 4. [Faker](https://github.com/marak/Faker.js/): Fake data generator
 
+## Frontend
+### React/Redux
+- [Full Course](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
 
-## ANGULAR JS
+### ANGULAR JS
 - Understand  how Single page aplications works 
 - Angular NG-directives
 - Angular template engine and $scope
