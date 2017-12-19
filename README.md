@@ -13,6 +13,7 @@ This repo is intended to list some resources to learn about javascript developme
 - Understand the Document Object Model (DOM) and how to select and interect with the elements
 - Understand the browser events cycle  (Click, hover, etc)
 - Learn how to debug with the browser(log to the console, view browser requests and local storage)
+- Checkout [this workshoper](https://github.com/workshopper/javascripting)
 
 ## Backend
 ### MVC
